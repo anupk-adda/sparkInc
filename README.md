@@ -1,4 +1,4 @@
-# Spark Camp training materials.
+# Spark Incubation  Program materials.
 
 This project holds the resources used for Spark Camp and other related training events. 
 The contents are as follows:
